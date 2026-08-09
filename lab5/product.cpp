@@ -15,7 +15,6 @@ class Product
         getline(cin>>ws,prod_name);
         cout<<"Enter Product id:";
         cin>>prod_id;
-        cout<<"Enter Product quantity:";
         cin>>prod_quantity;
         cout<<"Enter Product price:";
         cin>>prod_price;
